@@ -1,0 +1,30 @@
+body{
+   text-align:center;
+   background-color:black;
+   font-family: 'Staatliches', cursive;
+   color:white;
+}
+img {
+   width: 400px;
+}
+
+button {
+   margin-top: 15px;
+}
+
+#homer-reply {
+   padding: 15px;
+   display: inline;
+}
+#button {
+   background-color:WHITE;
+   color:black;
+   padding: 15px;
+   display:inline;
+}
+#button1 {
+   background-color:WHITE;
+   color:black;
+   padding: 15px;
+   display:inline;
+}
